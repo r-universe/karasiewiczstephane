@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BDAlgo"]
+	path = BDAlgo
+	url = https://github.com/cran/BDAlgo
 [submodule "subniche"]
 	path = subniche
 	url = https://github.com/karasiewiczstephane/witomi
